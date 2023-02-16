@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Thoufeek S
 Richard hanrick
 Web developer
 
@@ -16,6 +16,7 @@ Phone
 
 Birthday
 June 23,c 1982
+
 
 Location
 Sacramento, California, USA
