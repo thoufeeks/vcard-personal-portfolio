@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Thoufeek S
-Richard hanrick
+Ebangha Ebane
 Web developer
 
 Show Contacts
